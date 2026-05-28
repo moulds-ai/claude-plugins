@@ -1,0 +1,11 @@
+# npm/npx caches (a relative `cache=` in ~/.npmrc drops these into cwd)
+.npm-cache/
+**/.npm-cache/
+node_modules/
+
+# Build artifacts
+*.zip
+dist/
+
+# OS
+.DS_Store

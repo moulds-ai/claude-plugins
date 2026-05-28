@@ -1,0 +1,13 @@
+{
+  "name": "moulds-ship",
+  "description": "Turn an automation in your current directory — an MCP server, a script, or just an idea — into a live, monetizable agent on the moulds.ai marketplace. One command: detect → bundle → publish.",
+  "version": "0.1.0",
+  "author": {
+    "name": "moulds.ai",
+    "email": "rahul@moulds.ai"
+  },
+  "homepage": "https://app.moulds.ai",
+  "repository": "https://github.com/moulds-ai/claude-plugins",
+  "license": "MIT",
+  "keywords": ["moulds", "mcp", "agents", "marketplace", "publish", "deploy", "monetize"]
+}

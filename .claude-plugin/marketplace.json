@@ -1,0 +1,20 @@
+{
+  "name": "moulds",
+  "description": "moulds.ai plugins for Claude Code — turn your automations (MCP servers, scripts, ideas) into deployed, monetizable agents on moulds.ai.",
+  "owner": {
+    "name": "moulds.ai",
+    "email": "rahul@moulds.ai"
+  },
+  "plugins": [
+    {
+      "name": "moulds-ship",
+      "description": "Ship an automation in your current directory (MCP server / script / idea) to the moulds.ai marketplace as a live agent.",
+      "version": "0.1.0",
+      "source": "./plugins/moulds-ship",
+      "author": {
+        "name": "moulds.ai",
+        "email": "rahul@moulds.ai"
+      }
+    }
+  ]
+}
